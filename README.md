@@ -22,6 +22,4 @@ I'am from Tukan Team
 
 ##
 
-### I invite you too see my projects  🔭
-
 [linkedin]: https://www.linkedin.com/in/dawid-k-a58047169/
