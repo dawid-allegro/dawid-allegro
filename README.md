@@ -4,7 +4,7 @@
  💬  You can find me on: 
 -  [<img align="left" alt="helloroman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 <br/>
-I'am from Tukan Team
+I'am from Tukan Team :toucan-cap: 
 
 ##
 
@@ -15,10 +15,6 @@ I'am from Tukan Team
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-## Github Stats 📈 
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dawid-allegro&&show_icons=true&theme=vue)
 
 ##
 
